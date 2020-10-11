@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/scalenut-task/static/css/main.e74facf6.chunk.css",
+    "main.js": "/scalenut-task/static/js/main.5212414d.chunk.js",
+    "main.js.map": "/scalenut-task/static/js/main.5212414d.chunk.js.map",
+    "runtime-main.js": "/scalenut-task/static/js/runtime-main.d0a22ae8.js",
+    "runtime-main.js.map": "/scalenut-task/static/js/runtime-main.d0a22ae8.js.map",
+    "static/css/2.d2fc255c.chunk.css": "/scalenut-task/static/css/2.d2fc255c.chunk.css",
+    "static/js/2.1442d5e9.chunk.js": "/scalenut-task/static/js/2.1442d5e9.chunk.js",
+    "static/js/2.1442d5e9.chunk.js.map": "/scalenut-task/static/js/2.1442d5e9.chunk.js.map",
+    "index.html": "/scalenut-task/index.html",
+    "precache-manifest.e3dfb80389265cab7da9079c3111a762.js": "/scalenut-task/precache-manifest.e3dfb80389265cab7da9079c3111a762.js",
+    "service-worker.js": "/scalenut-task/service-worker.js",
+    "static/css/2.d2fc255c.chunk.css.map": "/scalenut-task/static/css/2.d2fc255c.chunk.css.map",
+    "static/css/main.e74facf6.chunk.css.map": "/scalenut-task/static/css/main.e74facf6.chunk.css.map",
+    "static/js/2.1442d5e9.chunk.js.LICENSE.txt": "/scalenut-task/static/js/2.1442d5e9.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/scalenut-task/static/media/color.c7a33805.png",
+    "static/media/primeicons.css": "/scalenut-task/static/media/primeicons.79432094.woff",
+    "static/media/thumbnail.jpg": "/scalenut-task/static/media/thumbnail.ac5f0287.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0a22ae8.js",
+    "static/css/2.d2fc255c.chunk.css",
+    "static/js/2.1442d5e9.chunk.js",
+    "static/css/main.e74facf6.chunk.css",
+    "static/js/main.5212414d.chunk.js"
+  ]
+}
